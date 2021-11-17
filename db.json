@@ -1,0 +1,65 @@
+{
+    "dogs": [
+      {
+        "id": 0,
+        "imageUrl": "https://lapkins.ru/upload/uf/64c/64c697ab652d07b08bea1133be08d0d2.jpg",
+        "name": "Бассет-хаунд",
+        "category": 0
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://lapkins.ru/upload/iblock/4d2/4d24e8019a6788ef504b406e3f303937.jpg",
+        "name": "Бультерьер",
+        "category": 1
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://lapkins.ru/upload/iblock/2bb/2bb8e4f3673d85849ff59a782411393b.jpg",
+        "name": "Питбуль",
+        "category": 1
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://lapkins.ru/upload/iblock/f17/f1736a1da30075ddecca572d193df250.jpg",
+        "name": "Алабай",
+        "category": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://lapkins.ru/upload/iblock/bd9/bd909ac4aaff2cedd0134ccc5c00e6d6.jpg",
+        "name": "Йоркширский терьер",
+        "category": 3
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://lapkins.ru/upload/iblock/fba/fbaa32832684d8adec5c32c0135018f2.jpg",
+        "name": "Немецкая овчарка",
+        "category": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://lapkins.ru/upload/iblock/cce/cce746f24fbf7dbf7b3365e1b247ee9a.jpg",
+        "name": "Джек-рассел-терьер",
+        "category": 1
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://lapkins.ru/upload/iblock/3e5/3e5a5004ca94632f210c86eb32336ace.jpg",
+        "name": "Энтлебухер зенненхунд",
+        "category": 4
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://lapkins.ru/upload/uf/58a/58abdfcd1aa52b158d34f48a0e4ec6d2.jpg",
+        "name": "Акита-Ину",
+        "category": 0
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://lapkins.ru/upload/iblock/1b2/1b24f0bce16b010bcb412974969b6a68.jpg",
+        "name": "Лабрадор-ретривер",
+        "category": 0
+        
+      }
+    ]
+}
